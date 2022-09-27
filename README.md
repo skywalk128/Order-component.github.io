@@ -29,7 +29,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://skywalk128.github.io/Order-component.github.io/)
+- Live Site URL: (https://skywalk128.github.io/Order-component.github.io/)
 
 ## My process
 
